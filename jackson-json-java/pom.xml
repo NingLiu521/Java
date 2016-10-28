@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hmkcode</groupId>
-  <artifactId>jackson-json-java</artifactId>
+  <artifactId>jackson-json-java</artifactId>//about
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
